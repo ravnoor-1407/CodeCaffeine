@@ -1,5 +1,4 @@
 # Define the menu structure of CodeCaffeine
-
 menu = {
     "Beverages": {
         "Hot Coffees": {
@@ -90,8 +89,7 @@ menu = {
 }
 
 # Greet the customer
-
-print("Welcome to Starbucks!")
+print("Welcome to CodeCaffiene!")
 print("Here is our menu:")
 for category, items in menu.items():
     print(f"{category}:")

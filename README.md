@@ -103,3 +103,11 @@ Contributions are welcome! If you have ideas for improvements (like adding a GUI
 ### 3. Commit your changes.
 ### 4. Push to the branch.
 ### 5. Open a Pull Request.
+
+
+## 👤 Author
+
+~ Ravnoor Kaur 
+
+[![GitHub](https://img.shields.io/badge/GitHub-ravnoor--1407-181717?style=for-the-badge&logo=github)](https://github.com/ravnoor-1407)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravnoor-kaur-rk2007)
